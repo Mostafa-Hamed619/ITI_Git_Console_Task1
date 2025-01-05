@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ITI.Git.Task1
 {
-    internal class Hello_World
+    internal class HelloJava
     {
         public void PrintHelloWorld()
         {
