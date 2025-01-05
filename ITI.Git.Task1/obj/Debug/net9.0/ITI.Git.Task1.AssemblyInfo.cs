@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ITI.Git.Task1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c86eb3a84146f363cba54850b28de7699afbd153")]
 [assembly: System.Reflection.AssemblyProductAttribute("ITI.Git.Task1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ITI.Git.Task1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
