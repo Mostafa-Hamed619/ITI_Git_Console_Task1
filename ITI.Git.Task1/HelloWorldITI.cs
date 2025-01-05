@@ -12,5 +12,10 @@ namespace ITI.Git.Task1
         {
             Console.WriteLine("Hello from ITI");
         }
+
+        public void printHelloGit()
+        {
+            Console.WriteLine("Hello to Git from Hello world ITI");
+        }
     }
 }
