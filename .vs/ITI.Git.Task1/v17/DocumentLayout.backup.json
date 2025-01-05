@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\projects\\ITI\\Git\\ITI.Git.Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E872491-6A04-4641-AF8D-9E06CB401FB9}|ITI.Git.Task1\\ITI.Git.Task1.csproj|e:\\projects\\iti\\git\\iti.git.task1\\iti.git.task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E872491-6A04-4641-AF8D-9E06CB401FB9}|ITI.Git.Task1\\ITI.Git.Task1.csproj|solutionrelative:iti.git.task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\projects\\ITI\\Git\\ITI.Git.Task1\\ITI.Git.Task1\\Program.cs",
+              "RelativeDocumentMoniker": "ITI.Git.Task1\\Program.cs",
+              "ToolTip": "E:\\projects\\ITI\\Git\\ITI.Git.Task1\\ITI.Git.Task1\\Program.cs",
+              "RelativeToolTip": "ITI.Git.Task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T10:01:39.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
